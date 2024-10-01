@@ -8,7 +8,7 @@ import { Component, Input } from '@angular/core';
   styleUrl: './investment-result.component.css',
 })
 export class InvestmentResultComponent {
-  @Input() result?: {
+  @Input() results?: {
     year: number;
     interest: number;
     valueEndOfYear: number;
