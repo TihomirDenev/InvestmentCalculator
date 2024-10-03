@@ -43,7 +43,7 @@
 
 # ✅ Getting Started
 
-1. Clone the Task-Manager [GitHub repository](https://github.com/TihomirDenev/InvestmentCalculator) locally:
+1. Clone the Investment Calculator [GitHub repository](https://github.com/TihomirDenev/InvestmentCalculator) locally:
 
 ```bash
 https://github.com/TihomirDenev/InvestmentCalculator.git
