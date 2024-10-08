@@ -71,7 +71,7 @@ npm run start
 
 # ✨ Contributing
 
-- We welcome contributions to the Investment Calculator project! If you have suggestions, feel free to open an issue or submit a pull request. Please follow the contribution guidelines to ensure smooth collaboration.
+- I welcome contributions to the Investment Calculator project! If you have suggestions, feel free to open an issue or submit a pull request.
 
 # 📇 License
 
